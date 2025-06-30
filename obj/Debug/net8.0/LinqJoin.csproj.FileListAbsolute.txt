@@ -1,0 +1,14 @@
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/LinqJoin/bin/Debug/net8.0/LinqJoin
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/LinqJoin/bin/Debug/net8.0/LinqJoin.deps.json
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/LinqJoin/bin/Debug/net8.0/LinqJoin.runtimeconfig.json
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/LinqJoin/bin/Debug/net8.0/LinqJoin.dll
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/LinqJoin/bin/Debug/net8.0/LinqJoin.pdb
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/LinqJoin/obj/Debug/net8.0/LinqJoin.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/LinqJoin/obj/Debug/net8.0/LinqJoin.AssemblyInfoInputs.cache
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/LinqJoin/obj/Debug/net8.0/LinqJoin.AssemblyInfo.cs
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/LinqJoin/obj/Debug/net8.0/LinqJoin.csproj.CoreCompileInputs.cache
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/LinqJoin/obj/Debug/net8.0/LinqJoin.dll
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/LinqJoin/obj/Debug/net8.0/refint/LinqJoin.dll
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/LinqJoin/obj/Debug/net8.0/LinqJoin.pdb
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/LinqJoin/obj/Debug/net8.0/LinqJoin.genruntimeconfig.cache
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/LinqJoin/obj/Debug/net8.0/ref/LinqJoin.dll
